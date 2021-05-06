@@ -1,4 +1,5 @@
 {
     "projects": [],
-    "learning": ["Node.js", "C#", "Jenkins", "Web Assembly"]
+    "learning": ["Node.js", "Jenkins", "Web Assembly", ""],
+    "workWith": ["C#", "VB.net", "ASP.net", "SQL Server", "XML", "TFS"]
 }
