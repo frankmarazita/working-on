@@ -1,5 +1,5 @@
 {
     "projects": [],
-    "learning": ["Node.js", "Jenkins", "Web Assembly"],
-    "workWith": ["C#", "VB.net", "ASP.net", "SQL Server", "XML", "TFS"]
+    "learning": ["Golang", "Angular", "Docker", "PostgreSQL"],
+    "workWith": ["Node.js", "React", "Python", "C#", "VB.net", "ASP.net", "MongoDB" "SQL Server", "Jenkins"]
 }
